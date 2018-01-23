@@ -6,6 +6,8 @@ Please visit [this link](https://fa5-mirror.ramaadi.gq) to find out more about t
 
 For now, CDN links:
 * RawGit (Stackpath) [here](https://cdn.rawgit.com/Ramacraft123/fa5-mirror/30253a47/fa5-all.js)
-* GitCDN
+* GitCDN [here](https://gitcdn.xyz/repo/Ramacraft123/fa5-mirror/master/fa5-all.js)
 * jsDelivr
-* CDNjs
+* Github raw [here](https://raw.githubusercontent.com/Ramacraft123/fa5-mirror/master/fa5-all.js)
+* My website (**not recommended**) 
+
